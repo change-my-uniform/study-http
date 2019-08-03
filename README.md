@@ -10,7 +10,7 @@
 
 ## 정보
 
-- 이 repository는 용량이 큰 바이너리 혹은, 문서파일들의 저장소로 사용합니다.
+- 이 repository는 용량이 큰 바이너리 혹은 문서파일들의 저장소로 사용합니다.
 - 스터디 진행은 [노션 페이지](https://www.notion.so/changemyuniform/HTTP-39ba25ead15a40b38fd30e3ac2628aa5)에서 진행합니다.
 
 
