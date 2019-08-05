@@ -49,7 +49,7 @@
 
 1. HTTP 웹의 기초
    1. HTTP 개관:
-   2. URL과 리소스: (WIP) https://docs.google.com/presentation/d/1VVFdDZQlV3W3v6cYDFUf_-oXqpB1lnQRP7t8hOwxP4M/edit?usp=sharing
+   2. URL과 리소스: (WIP)[@시영](https://docs.google.com/presentation/d/1VVFdDZQlV3W3v6cYDFUf_-oXqpB1lnQRP7t8hOwxP4M/edit?usp=sharing)
    3. HTTP 메시지:
    4. 커넥션 관리:
 
