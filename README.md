@@ -50,7 +50,7 @@
 1. HTTP 웹의 기초
    1. HTTP 개관:[발표자료](https://docs.google.com/presentation/d/11H9R1Tuoi7ERd0WU3TlGCxqnFaHb1GJf6W5eAxMr_5Y/edit?usp=sharing) @SEONG HUN KONG
    2. URL과 리소스:[발표자료](https://docs.google.com/presentation/d/1VVFdDZQlV3W3v6cYDFUf_-oXqpB1lnQRP7t8hOwxP4M/edit?usp=sharing) @Siyoung Jung
-   3. HTTP 메시지:
+   3. HTTP 메시지:[발표자료](https://docs.google.com/presentation/d/1pbqmXl73twrlGy8iA0NlG5goYxX_sj0SYtUg731BH8c/edit?usp=sharing) @Jeongsik Yun
    4. 커넥션 관리:
 
 ### 추가적으로 할 일
