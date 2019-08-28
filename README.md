@@ -53,7 +53,7 @@
    3. HTTP 메시지:[발표자료](https://docs.google.com/presentation/d/1pbqmXl73twrlGy8iA0NlG5goYxX_sj0SYtUg731BH8c/edit?usp=sharing) @Jeongsik Yun
    4. 커넥션 관리:
    5. 웹 서버:
-   6. 프락시: WIP [발표자료](https://docs.google.com/presentation/d/1oQ5-lFPXKYfq-Wj7GvbrEiWfmhwhPdu9YtS9Nj4gvFM/edit?usp=sharing)
+   6. 프락시: WIP [발표자료](https://docs.google.com/presentation/d/1oQ5-lFPXKYfq-Wj7GvbrEiWfmhwhPdu9YtS9Nj4gvFM/edit?usp=sharing) @Siyoung Jung
    7. 캐시: WIP [발표자료](https://docs.google.com/presentation/d/1XIPtvaG5iHXsm_mNPVvLj_9ymCCa2XSrt5e-nI0G0w8/edit?usp=sharing)
    8. 통합점: 게이트웨이, 터널, 릴레이:
 
