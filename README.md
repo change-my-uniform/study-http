@@ -56,6 +56,10 @@
    6. 프락시: WIP [발표자료](https://docs.google.com/presentation/d/1oQ5-lFPXKYfq-Wj7GvbrEiWfmhwhPdu9YtS9Nj4gvFM/edit?usp=sharing) @Siyoung Jung
    7. 캐시: WIP [발표자료](https://docs.google.com/presentation/d/1XIPtvaG5iHXsm_mNPVvLj_9ymCCa2XSrt5e-nI0G0w8/edit?usp=sharing)
    8. 통합점: 게이트웨이, 터널, 릴레이:
+   9. 웹 로봇:
+   10. HTTP2
+   11. 클라이언트 식별과 쿠키: [발표자료](https://docs.google.com/presentation/d/1w3cPIWiqECKTkdvwYdhwRSWA4FSXS-VCq47zaguYUmE/edit?usp=sharing)
+   12. 기본 인증
 
 ### 추가적으로 할 일
 
