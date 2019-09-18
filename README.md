@@ -58,7 +58,7 @@
    8. 통합점: 게이트웨이, 터널, 릴레이:
    9. 웹 로봇:
    10. HTTP2
-   11. 클라이언트 식별과 쿠키: [발표자료](https://docs.google.com/presentation/d/1w3cPIWiqECKTkdvwYdhwRSWA4FSXS-VCq47zaguYUmE/edit?usp=sharing)
+   11. 클라이언트 식별과 쿠키: [발표자료](https://docs.google.com/presentation/d/1w3cPIWiqECKTkdvwYdhwRSWA4FSXS-VCq47zaguYUmE/edit?usp=sharing) @Siyoung Jung
    12. 기본 인증
 
 ### 추가적으로 할 일
