@@ -52,11 +52,11 @@
    2. URL과 리소스:[발표자료](https://docs.google.com/presentation/d/1VVFdDZQlV3W3v6cYDFUf_-oXqpB1lnQRP7t8hOwxP4M/edit?usp=sharing) @Siyoung Jung
    3. HTTP 메시지:[발표자료](https://docs.google.com/presentation/d/1pbqmXl73twrlGy8iA0NlG5goYxX_sj0SYtUg731BH8c/edit?usp=sharing) @Jeongsik Yun
    4. 커넥션 관리:
-   5. 웹 서버:
+   5. 웹 서버:[발표자료](https://docs.google.com/presentation/d/12vrK3FRtLD8PMpFvnPa5w_2WnMOd1tAN_kCFPXTifpg/edit?usp=sharing) @SEONG HUN KONG
    6. 프락시: WIP [발표자료](https://docs.google.com/presentation/d/1oQ5-lFPXKYfq-Wj7GvbrEiWfmhwhPdu9YtS9Nj4gvFM/edit?usp=sharing) @Siyoung Jung
    7. 캐시: WIP [발표자료](https://docs.google.com/presentation/d/1XIPtvaG5iHXsm_mNPVvLj_9ymCCa2XSrt5e-nI0G0w8/edit?usp=sharing)
    8. 통합점: 게이트웨이, 터널, 릴레이:
-   9. 웹 로봇:
+   9. 웹 로봇:[발표자료](https://docs.google.com/presentation/d/1S0V_sd4JWyYa9KdNJ_WWNFLFNnVCMhUaqL_0QN_lDMA/edit?usp=sharing) @SEONG HUN KONG
    10. HTTP2
    11. 클라이언트 식별과 쿠키: [발표자료](https://docs.google.com/presentation/d/1w3cPIWiqECKTkdvwYdhwRSWA4FSXS-VCq47zaguYUmE/edit?usp=sharing) @Siyoung Jung
    12. 기본 인증
