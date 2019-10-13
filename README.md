@@ -60,7 +60,11 @@
    10. HTTP2
    11. 클라이언트 식별과 쿠키: [발표자료](https://docs.google.com/presentation/d/1w3cPIWiqECKTkdvwYdhwRSWA4FSXS-VCq47zaguYUmE/edit?usp=sharing) @Siyoung Jung
    12. 기본 인증
-
+   13. 다이제스트 
+   14. 보안 HTTP
+   15. 엔터티와 인코딩
+   16. 국제화
+   17. 내용 협상과 트랜스코딩: [발표자료](https://docs.google.com/presentation/d/1NELddcXwM6NifnAUEO2alGinchLfQn6nmzGCtrZjOVU/edit?usp=sharing) @Siyoung Jung
 ### 추가적으로 할 일
 
 - GitHub 팀 계정 파기 - @Jeongsik Yun 💿
